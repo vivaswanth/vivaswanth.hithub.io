@@ -1,4 +1,9 @@
 ---
+title: Options for creating a new site with Jekyll
+date: 2019-01-23 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
 layout: post
 title:  "Options for creating a new site with Jekyll"
 author: vidyak

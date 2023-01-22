@@ -1,4 +1,9 @@
 ---
+title: Quick Start Guide
+date: 2019-01-20 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
 layout: post
 title:  "Quick Start Guide"
 author: vidyak
