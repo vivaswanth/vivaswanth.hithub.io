@@ -18,17 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Softgroot
-email: your-email@example.com
+title: vivaswanth.github.io
+name: vv
+email: vivaswanth.k@gmail.com
+disqus: vivaswanth
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collection of some useful tech stuff and randome thoughts about universe and everything.
 #baseurl: "/_site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/images/logo.png'
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  vivaswanth
 include: ["_pages"]
 # Build settings
 # theme: minima
@@ -41,21 +40,12 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    vidyak:
+      name:           Vidya Vivaswanth Katravulapalli
+      site:           https://vivaswanth.github.io
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am VV, Full stack developer. I try to keep things simple and this blog is kinda experiment to preserve the various things I try to memorize but fail often. I hope you like it!"
+      email:          vivaswanth.k@gmail.com
 
 defaults:
 
@@ -64,8 +54,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: vidyak
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
