@@ -7,9 +7,7 @@ categories:
 tags:
 - sticky
 layout: post
-title:  "Could we reinvent the charm of old cities"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 ---
 

@@ -5,9 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-title:  "Accumulated experience of social living"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/15.jpg
 ---
 

@@ -4,9 +4,7 @@ date: 2019-01-29 00:00:00 Z
 categories:
 - Jekyll
 layout: post
-title:  "About Bundler"
 author: vidyak
-categories: [ Jekyll ]
 image: assets/images/2.jpg
 ---
 

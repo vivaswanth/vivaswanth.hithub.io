@@ -4,9 +4,7 @@ date: 2019-02-04 00:00:00 Z
 categories:
 - Jekyll
 layout: post
-title:  "Welcome to Jekyll!"
 author: vidyak
-categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
 

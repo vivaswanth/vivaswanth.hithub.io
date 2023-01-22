@@ -5,9 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-title:  "Tree of Codes"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
 

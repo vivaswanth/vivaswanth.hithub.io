@@ -5,9 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-title:  "Red Riding Hood"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
 

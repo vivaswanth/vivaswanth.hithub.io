@@ -6,9 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
 author: vidyak
-categories: [ tutorial ]
 image: assets/images/17.jpg
 ---
 

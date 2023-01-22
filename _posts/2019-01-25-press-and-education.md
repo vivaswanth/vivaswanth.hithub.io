@@ -5,9 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-title:  "Press and education"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
 ---
 

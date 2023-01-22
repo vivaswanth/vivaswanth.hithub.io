@@ -5,9 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-title:  "What is Jekyll"
 author: vidyak
-categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 ---
 
